@@ -7,8 +7,7 @@ some notes when I am taking [Codecademy Learn the Command Line](https://www.code
     - `cd` : Change Direcotry（打开当前文件夹)
     - `ls`: LiSt (当前路径下的文件列表)
     - `mkdir` : MaKe DIRectory (新建文件夹)
-        ![Image of mkdir]
-        (../mkdir.gif)
+        ![Image of mkdir](../mkdir.gif)
     - `touch` : 新建文件
     - `cp` : CoPy files/direcotries
     - `mv` : MoVe (移动)
