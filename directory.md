@@ -1,8 +1,4 @@
-# Some Baisc Command Lines (note)
-
-some notes when I am taking [Codecademy Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) course.
-
-1. [Directory（与路径有关的操作）](./directory.md): 
+1. Directory（与路径有关的操作）: 
     - `pwd` : Print Working Directory（显示当前路径）
         ![Image of pwd](./pwd.gif)
     - `cd` : Change Direcotry（打开当前文件夹)
@@ -29,10 +25,3 @@ some notes when I am taking [Codecademy Learn the Command Line](https://www.code
         * `rm` deletes files and directories permanently!!! rm是永久性删除，注意！！！
         * `rm -r folder_name` : deleted folder_name directory and all its child direcotries 删除文件夹已经其所有子文件 (r stands for 'recursive')
         * `rm file_name` : deleted file_name file 删除文件
-
-2. Input and Output
-    - `echo` : like print
-        * `echo 'Hello World'` : output will be 'Hello World'
-    - `stdin` : STanDard INput
-    - `stdout` : STanDard OUTput
-    - `stderr` : an error message outputted by a failed process
