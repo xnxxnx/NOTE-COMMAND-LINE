@@ -6,4 +6,7 @@ some notes when I am taking [Codecademy Learn the Command Line](https://www.code
     - `pwd`, `cd`, `ls`, `mkdir`, `touch`, `cp`, `mv`, `rm`
 
 2. [Input and Output (与输入输出有关的操作)](./inputAndOutput.md):
-    - `echo`, `stdin`, `stdout`, `stderr`
+    - `echo`, `stdin`, `stdout`, `stderr`, `>`, `>>`, `cat`, `|`(pipe), `uniq`, `grep`, `sed`
+
+3. [Nano (与vi有关的操作)](./nano.md):
+    - `nano`, `ctrl + o`,  `ctrl + x`, `ctrl + g`
