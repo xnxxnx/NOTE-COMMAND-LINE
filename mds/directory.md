@@ -1,4 +1,3 @@
-
 ## Directory（与路径有关的操作）: 
 
 - `pwd` : Print Working Directory（显示当前路径）

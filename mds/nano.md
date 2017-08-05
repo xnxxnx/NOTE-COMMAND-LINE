@@ -1,4 +1,3 @@
-
 ## nano (与vi有关的操作)
 
 - `nano` : open text file in nano text editor
