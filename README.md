@@ -1,6 +1,6 @@
 # Some Baisc Command Lines (note)
 
-some notes when I am taking [Codecademy Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) course.
+some notes about [Codecademy Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) course.
 
 1. [Directory（与路径有关的操作）](./mds/directory.md): 
     - `pwd`, `cd`, `ls`, `mkdir`, `touch`, `cp`, `mv`, `rm`
@@ -9,10 +9,10 @@ some notes when I am taking [Codecademy Learn the Command Line](https://www.code
     - `echo`, `stdin`, `stdout`, `stderr`, `>`, `>>`, `cat`, `|`(pipe), `uniq`, `grep`, `sed`
 
 3. [Nano (与vi有关的操作)](./mds/nano.md):
-    - `nano`, `ctrl + o`,  `ctrl + x`, `ctrl + g`
+    - `nano`, `ctrl o`,  `ctrl x`, `ctrl g`
 
 4. [Some Environment Variable (一些全局变量)](./mds/global.md):
-    - `HOME`, `PATH`, `env`
+    - `~/.bash_profile`, `alias`, `USER`, `HOME`, `PATH`, `env`, `PS1`
 
 5. [Other common commands (一些通用的terminal指令)](./mds/common.md):
     - `clear`
