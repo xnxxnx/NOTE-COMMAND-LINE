@@ -1,2 +1,2 @@
-# NOTE-COMMAND-LINE
-A note for using command line
+# Some Baisc Command Line (note)
+
