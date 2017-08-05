@@ -4,7 +4,9 @@ some notes when I am taking [Codecademy Learn the Command Line](https://www.code
 
 1. Directory（与路径有关的操作）: 
     - `pwd` : Print Working Directory（显示当前路径）
+        ![Image of pwd](./pwd.gif)
     - `cd` : Change Direcotry（打开当前文件夹)
+        ![Image of cd](./cd.gif)
     - `ls`: LiSt (当前路径下的文件列表)
         * `ls -a` : lists all contents, including hidden files and directories (files started with a dot are hidden)
         * `ls -l` : lists all contents of a directory in long format
