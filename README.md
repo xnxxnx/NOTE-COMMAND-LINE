@@ -19,6 +19,10 @@ some notes about [Codecademy Learn the Command Line](https://www.codecademy.com/
 
 
 
+some notes about [Codecademy Learn Git](https://www.codecademy.com/learn/learn-git) course.
+
+1. [Some basic git command](./git/basic.md):
+    - `git init`
 
 
 
