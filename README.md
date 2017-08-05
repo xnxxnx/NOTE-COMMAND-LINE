@@ -10,3 +10,6 @@ some notes when I am taking [Codecademy Learn the Command Line](https://www.code
 
 3. [Nano (与vi有关的操作)](./mds/nano.md):
     - `nano`, `ctrl + o`,  `ctrl + x`, `ctrl + g`
+
+4. [Some common commands (一些通用的terminal指令)](./mds/common.md):
+    - `clear`
