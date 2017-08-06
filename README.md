@@ -25,5 +25,9 @@ some notes about [Codecademy Learn Git](https://www.codecademy.com/learn/learn-g
     - `git init`
 
 
+some notes about npm 
+
+1. [Some Basic NPM Command(一些npm基本指令)](./npm/basic.md)
+
 
 If there's anything wrong, please let me know : xuenanxin@gmail.com. Thank you.
